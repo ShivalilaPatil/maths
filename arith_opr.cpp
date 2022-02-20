@@ -16,7 +16,8 @@ class emp
 class cal: public emp
 {  public: void sub()
          {
-           cout<<"\nsubtraction= " << no1 - no2;  
+           cout<<"\nsubtraction= " << no1 - no2;
+           cout<<"\n multiplication= "<<no1*no2;  
          }
 };
 
